@@ -9,7 +9,7 @@
         <h2 align="center">Technically proficient Software Engineer with 2 years of hands-on experience</h2>
         <h1>🧑‍🦰 About me</h1>
         <ul>
-            <li>All of my projects are available at my <a href="richardgeek.com">Portfolio</a></li>
+            <li>All of my projects are available at my <a href="https://richardgeek.com">Portfolio</a></li>
             <li>Reach me on <a href='mailto:olajuwonrichard22@gmail.com'>Email</a></li>
             <li>Reach me on <a href='https://wa.me/message/MHOMKJ7K5P3ZF1'>Whatsapp</a></li>
         </ul>
