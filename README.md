@@ -16,11 +16,13 @@
         <h1>🚀Technologies I'm Skilled In</h1>
         <ul>
             <li>HTML, CSS, JavaScript, TypeScript</li>
+            <li>Python</li>
             <li>React</li>
             <li>Styling (Sass, Bootstrap, Tailwind CSS)</li>
             <li>Layouts (Flexbox, Grid)</li>
             <li>Testing (Jest, Cypress)</li>
             <li>Build tools (Webpack)</li>
+            <li>Django</li>
             <li>Node JS</li>
             <li>Express JS</li>
             <li>Passport JS</li>
