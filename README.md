@@ -31,6 +31,7 @@
             <li>Database (SQL, MongoDB, MySQL, PostgreSQL)</li>
             <li>API (GraphQL, RestAPI)</li>
             <li>Containerization and Orchestration (Kubernetes, Docker)</li>
+            <li>Cloud Computing (AWS, Microsoft Azure)</li>
             <li>Package Manager (NPM, Yarn)</li>
             <li>Project Management (git, Github)</li>
             <li>Deployment (Heroku, Surge, Render, Netlify, Vercel, Firebase)</li>
