@@ -11,7 +11,8 @@
         <ul>
             <li>All of my projects are available at my <a href="https://richardgeek.com">Portfolio</a></li>
             <li>Reach me on <a href='mailto:olajuwonrichard22@gmail.com'>Email</a></li>
-            <li>Reach me on <a href='https://wa.me/message/MHOMKJ7K5P3ZF1'>Whatsapp</a></li>
+            <li>Reach me on <a href='https://wa.me/+2349035442716'>Whatsapp</a></li>
+            <li>Reach me on <a href="https://linkedin.com/in/richard-olajuwon"> LinkedIn </a></li>
         </ul>
         <h1>🚀Technologies I'm Skilled In</h1>
         <ul>
