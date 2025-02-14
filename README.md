@@ -6,7 +6,7 @@
     </head>
     <body>
         <h1 align="center">Hi 👋, I'm Richard</h1>
-        <h2 align="center">Technically proficient Software Engineer with 2 years of hands-on experience</h2>
+        <h2 align="center">Technically proficient Software Engineer with 4 years of hands-on experience</h2>
         <h1>🧑‍🦰 About me</h1>
         <ul>
             <li>All of my projects are available at my <a href="https://richardgeek.com">Portfolio</a></li>
