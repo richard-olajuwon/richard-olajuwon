@@ -6,7 +6,7 @@
     </head>
     <body>
         <h1 align="center">Hi 👋, I'm Richard</h1>
-        <h2 align="center">Technically proficient Software Engineer with 4 years of hands-on experience</h2>
+        <h2 align="center">Technically Proficient Software Engineer with 4 years of hands-on experience</h2>
         <h1>🧑‍🦰 About me</h1>
         <ul>
             <li>All of my projects are available at my <a href="https://richardgeek.com">Portfolio</a></li>
@@ -36,7 +36,7 @@
             <li>Package Manager (NPM, Yarn)</li>
             <li>Project Management (git, Github)</li>
             <li>Deployment (Heroku, Surge, Render, Netlify, Vercel, Firebase)</li>
-            <li>OpenAI Integration (ChatGPT Integration, OpenAI API Integration)</li>
+            <li>AI Integration (OpenAI API Integration, DeepSeek API Integration)</li>
         </ul>
     </body>
 </html>
