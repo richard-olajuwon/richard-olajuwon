@@ -20,10 +20,12 @@
             <li>TypeScript</li>
             <li>Python</li>
             <li>React</li>
+            <li>React Native</li>
             <li>Styling (CSS, Sass, Bootstrap, Tailwind CSS)</li>
             <li>Testing (Jest, Cypress, Pytest, Selenium)</li>
             <li>Build tools (Webpack, Vite)</li>
             <li>Django</li>
+            <li>FastAPI</li>
             <li>Node JS</li>
             <li>Express JS</li>
             <li>Passport JS</li>
