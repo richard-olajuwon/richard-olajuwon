@@ -6,7 +6,7 @@
     </head>
     <body>
         <h1 align="center">Hi 👋, I'm Richard</h1>
-        <h2 align="center">Technically Proficient Software Engineer</h2>
+        <h2 align="center">Technically Proficient Software & AI Engineer</h2>
         <h1>About me</h1>
         <ul>
             <li>All of my projects are available at my <a href="https://richardgeek.com">Portfolio</a></li>
@@ -16,27 +16,20 @@
         </ul>
         <h1>Technologies I'm Skilled In</h1>
         <ul>
-            <li>JavaScript</li>
-            <li>TypeScript</li>
-            <li>Python</li>
-            <li>React</li>
-            <li>React Native</li>
-            <li>Styling (CSS, Sass, Bootstrap, Tailwind CSS)</li>
+            <li>Programming Languages (Go, Python, JavaScript, TypeScript)</li>
+            <li>AI Engineering (LangGraph, LlamaIndex, Pinecone, RAG, MCP)</li>
+            <li>AI Integrations (OpenAI, Claude, Gemini, DeepSeek, Zapier, Deepgram)</li>
+            <li>Mobile App Development(React Native, Expo, Android, iOS)</li>
+            <li>Front End Development(React, CSS, Bootstrap, Tailwind)</li>
             <li>Testing (Jest, Cypress, Pytest, Selenium)</li>
-            <li>Build tools (Webpack, Vite)</li>
-            <li>Django</li>
             <li>FastAPI</li>
-            <li>Node JS</li>
             <li>Express JS</li>
-            <li>Passport JS</li>
-            <li>Database (SQL, MySQL, PostgreSQL, MongoDB)</li>
+            <li>Database (MySQL, PostgreSQL, MongoDB)</li>
             <li>API (GraphQL, RestAPI)</li>
             <li>Containerization and Orchestration (Kubernetes, Docker)</li>
             <li>Cloud Computing (AWS, Microsoft Azure, GCP)</li>
-            <li>Package Manager (NPM, Yarn)</li>
-            <li>Project Management (git, Github)</li>
-            <li>Deployment (Heroku, Surge, Render, Netlify, Vercel, Firebase)</li>
-            <li>AI Integration (OpenAI API Integration, DeepSeek API Integration)</li>
+            <li>Project Management (git, Github, Gitlab)</li>
+            <li>Deployment (Heroku, Railway, Render, Netlify, Vercel, Firebase)</li>
         </ul>
     </body>
 </html>
