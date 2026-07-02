@@ -21,9 +21,8 @@
             <li>AI Integrations (OpenAI, Claude, Gemini, DeepSeek, Zapier, Deepgram)</li>
             <li>Mobile App Development(React Native, Expo, Android, iOS)</li>
             <li>Front End Development(React, CSS, Bootstrap, Tailwind)</li>
+            <li>Backend Development (Go, Express JS, FastAPI)</li>
             <li>Testing (Jest, Cypress, Pytest, Selenium)</li>
-            <li>FastAPI</li>
-            <li>Express JS</li>
             <li>Database (MySQL, PostgreSQL, MongoDB)</li>
             <li>API (GraphQL, RestAPI)</li>
             <li>Containerization and Orchestration (Kubernetes, Docker)</li>
