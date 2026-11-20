@@ -6,7 +6,7 @@
     </head>
     <body>
         <h1 align="center">Hi 👋, I'm Richard</h1>
-        <h2 align="center">Technically Proficient Software Engineer & Blockchain Developer</h2>
+        <h2 align="center">Technically Proficient Software Engineer</h2>
         <h1>About me</h1>
         <ul>
             <li>All of my projects are available at my <a href="https://richardgeek.com">Portfolio</a></li>
@@ -20,7 +20,7 @@
             <li>Front End Development(React, CSS, Bootstrap, Tailwind)</li>
             <li>Backend Development (Go, Express JS, FastAPI)</li>
             <li>Mobile App Development(React Native, Expo, Android, iOS)</li>
-            <li>Blockchain Development (Solidity, Foundry, Hardhat, Ether.js, Viem, Web3, Smart Contract, dApps Development,)</li>
+            <!--<li>Blockchain Development (Solidity, Foundry, Hardhat, Ether.js, Viem, Web3, Smart Contract, dApps Development,)</li>-->
             <li>AI Integrations (OpenAI, Claude, Gemini, DeepSeek, Zapier, Deepgram)</li>
             <li>Testing (Jest, Cypress, Pytest, Selenium)</li>
             <li>Database (MySQL, PostgreSQL, MongoDB)</li>
